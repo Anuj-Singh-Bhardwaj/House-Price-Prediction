@@ -62,6 +62,9 @@ Predict residential property prices using machine learning based on 20,000+ hous
 3. Open `house_price.ipynb` in Jupyter Notebook
 4. Run all cells
 
+- **Source:**
+- [Kaggle - House Price Prediction](https://www.kaggle.com/datasets/your-dataset-link-here)
+
 ## Author
 
 **Anuj Singh Bhardwaj**
